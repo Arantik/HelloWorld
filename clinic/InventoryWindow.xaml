@@ -1,0 +1,8 @@
+﻿<Window x:Class="clinic.InventoryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="InventoryWindow" Height="640" Width="800">
+    <Grid>
+        
+    </Grid>
+</Window>

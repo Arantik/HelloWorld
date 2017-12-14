@@ -1,0 +1,17 @@
+﻿<Window x:Class="clinic.DoctorsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DoctorsWindow" Height="640" Width="800">
+    <Grid>
+        <TabControl HorizontalAlignment="Stretch" VerticalAlignment="Stretch" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" FlowDirection="RightToLeft">
+            <TabItem Header="ویزیت بیمار جدید">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="بیماران ویزیت‌شده">
+            </TabItem>
+            <TabItem Header="ارسال نامه به مدیریت">
+            </TabItem>
+        </TabControl>
+        
+    </Grid>
+</Window>
